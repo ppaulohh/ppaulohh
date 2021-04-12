@@ -1,0 +1,4 @@
+- 👋 My name is Paulo Henrique 
+- 👀 I’m interested in back end development, B.I and educacional tecnologies 
+- 🌱 I’m currently learning ruby on rails.
+- 📫 To contact me you can just send a email on "ppaulo_hh@hotmail.com" or send a message on Telegram to "@ppaulo_hh"
