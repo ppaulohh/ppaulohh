@@ -1,4 +1,4 @@
-- 👋 My name is Paulo Henrique 
+- 👋 My name is Paulo Henrique, im a IT barcheloors from Natal, RN, Brazil  
 - 👀 I’m interested in back end development, B.I and educacional tecnologies 
-- 🌱 I’m currently learning ruby on rails.
+- 🌱 I’m currently learning ruby on rails, and working with spring boot
 - 📫 To contact me you can just send a email on "ppaulo_hh@hotmail.com" or send a message on Telegram to "@ppaulo_hh"
