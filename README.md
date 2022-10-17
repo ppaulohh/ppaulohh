@@ -1,4 +1,4 @@
-- 👋 My name is Paulo Henrique, im 24 years old and a IT barcheloors from Natal, RN, Brazil currently working in a post graduation degree  
-- 👀 I’m interested in back end development, B.I and educacional tecnologies 
-- 🌱 I’m currently coding ruby on rails for fun, and working with spring boot
-- 📫 To contact me you can just send a email on "ppaulo_hh@hotmail.com" or send a message on Telegram to "@ppaulo_hh"
+- 👋 My name is Paulo Henrique, im 24 years old and a IT barcheloors from Natal, RN, Brazil currently working in a post graduation degree.
+- 👀 I’m interested in back end development, B.I and educacional tecnologies.
+- 🌱 I’m currently coding ruby on rails for fun, and working with spring boot.
+- 📫 To contact me you can just send a email on "ppaulo_hh@hotmail.com" or send a message on Telegram to "@ppaulo_hh"!
