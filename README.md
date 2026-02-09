@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Henrique! 👋
+# Hi, I'm Paulo Henrique! 
 
 ### Mid-Level Software Developer | Full Stack | Integration Specialist
 
@@ -6,7 +6,7 @@ I hold a Bachelor’s degree in Information Technology from **UFRN** and am curr
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎓 **Education:** Postgraduate student (IT Residency) and B.S. in IT from UFRN.
 - 🏢 **Current Role:** Full Stack Developer at **SEDIS/UFRN**, working with the PHP/Laravel ecosystem and Moodle environments.
 - ☁️ **Cloud & DevOps:** Hands-on experience with AWS (S3, Lambda, ECS, SQS) and CI/CD pipelines using GitLab, BitBucket, and Jenkins.
@@ -14,7 +14,7 @@ I hold a Bachelor’s degree in Information Technology from **UFRN** and am curr
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,14 +25,14 @@ I hold a Bachelor’s degree in Information Technology from **UFRN** and am curr
 
 ---
 
-### 📈 Career Highlights
+### Career Highlights
 - **Akross:** Developed critical integration APIs using Spring Boot and Go, and managed serverless infrastructure on AWS.
 - **ESIG Software:** Worked on the modernization and maintenance of large-scale legacy systems in Java.
 - **Code Quality:** Experienced in Code Reviews, Unit Testing, and Integration Testing to ensure high-performance delivery.
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 - 💼 [LinkedIn](https://linkedin.com/in/phsantosbr/)
 - 📧 [paulohenriquewrk@gmail.com](mailto:paulohenriquewrk@gmail.com)
 - 📍 Natal, RN - Brazil
